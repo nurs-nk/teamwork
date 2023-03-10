@@ -1,0 +1,4 @@
+#!/bin/bash
+
+if [[ salam -gt kandai ]]; then echo "assalam aleikum"; else echo "assalam aleikum ele tuura bolot"; fi
+	
